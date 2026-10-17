@@ -8,11 +8,11 @@ If you don't have Git installed, please follow the installation instructions at 
 
 ## Contributors List
 
-| Clemson Username | GitHub Username | Group Number |
-| ---------------- | --------------- | ------------ |
-| nkandel          | nkclemson       | None         |
-|                  |                 |              |
-|                  |                 |              |
+| Clemson Username | GitHub Username   | Group Number |
+| ---------------- | ----------------- | ------------ |
+| nkandel          | nkclemson         | None         |
+| mrgordo          | Michael-RM-Gordon | 2            |
+|                  |                   |              |
 
 
 ## ⚠️ Important: Complete the Form
